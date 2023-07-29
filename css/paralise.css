@@ -1,0 +1,72 @@
+
+.site{
+    background-image: url(../img/crocodile-resting-swamp-danger-lurking-nearby-generative-ai.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    padding-top: 300px;
+    padding-bottom: 300px;
+
+
+}
+.content-site{
+  background-color: gray;
+  text-align: justify;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+.img-site{
+    background-image: url(../img/african-elephant-walking-through-tranquil-savannah-landscape-generated-by-ai\ \(1\).jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+footer{
+  color: rgb(24, 24, 189);
+  padding: 20px;
+  display: flex;
+}
+.footer-section {
+flex: 1;
+text-align: center;
+
+}
+.footer-section h3 {
+flex: 1;
+text-align: center;
+background-color: black;
+}
+.footer-section p {
+flex: 1;
+text-align: center;
+background-color: black;
+}
+
+h3 {
+margin-top: 0;
+}
+
+.social-icon {
+list-style: none;
+padding: 0;
+margin: 0;
+}
+.social-icon li {
+display: inline-block;
+margin-right: 10px;
+}
+.social-icon img {
+width: 30px;
+height: 30px;
+
+}
+
+
+

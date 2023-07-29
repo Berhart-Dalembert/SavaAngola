@@ -1,0 +1,56 @@
+body{
+    background-color: gray;
+}
+
+tr th{
+  background-color: brown;
+}
+tr td{
+  background-color: blanchedalmond;
+}
+
+p{
+  background-color: ghostwhite;
+  text-align: justify;
+}
+
+footer{
+    color: rgb(24, 24, 189);
+    padding: 20px;
+    display: flex;
+}
+.footer-section {
+  flex: 1;
+  text-align: center;
+  
+}
+.footer-section h3 {
+  flex: 1;
+  text-align: center;
+  background-color: black;
+}
+.footer-section p {
+  flex: 1;
+  text-align: center;
+  background-color: black;
+}
+
+h3 {
+  margin-top: 0;
+}
+
+.social-icon {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.social-icon li {
+  display: inline-block;
+  margin-right: 10px;
+}
+.social-icon img {
+  width: 30px;
+  height: 30px;
+  
+}
+

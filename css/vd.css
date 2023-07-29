@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.video-container {
+    max-width: 800px; /* Defina o tamanho máximo do player de vídeo */
+    margin: 0 auto;
+    position: relative;
+}
+
+video {
+    width: 100%;
+    height: auto;
+}
+
+.video-controls {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+button {
+    margin: 5px;
+}
